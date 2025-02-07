@@ -13,7 +13,7 @@ function Right() {
   }, [setSelectedConversation]);
   return (
     <div className="w-full bg-slate-900 text-gray-300" style={{
-      backgroundImage: "url('img.jpg')",
+      backgroundImage: "url('img.jpeg')",
       backgroundSize: "cover",
       backgroundPosition: "center",
     }}>
